@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+@HectorShin is my old account.
+I am an Electrical Engineering student at the University of São Paulo (Brazil), and I did an exchange program at Osaka University (Japan).
 <!--
 **matsudashin01/matsudashin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
