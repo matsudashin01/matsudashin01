@@ -1,6 +1,9 @@
-## Hi there 👋
-@HectorShin is my old account.
-I am an Electrical Engineering student at the University of São Paulo (Brazil), and I did an exchange program at Osaka University (Japan).
+## Hi I'm Shin👋
+- ⚡ Electrical Engineering student at the University of São Paulo (Brazil)  
+- 🌏 Exchange student at Osaka University (Japan)  
+- 💻 Passionate about technology, programming, and innovation  
+
+[@HectorShin](https://github.com/HectorShin) is my old account.
 <!--
 **matsudashin01/matsudashin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
